@@ -1,20 +1,21 @@
 # mk96-lib
 
-Librerías reutilizables.
+Reusable libraries.
 
-Este repositorio es solo un índice. El código vive en la organización de GitHub **[mk96-lib](https://github.com/mk96-lib)**.
+This repository is only an index. The code lives in the GitHub organization **[mk96-lib](https://github.com/mk96-lib)**.
 
-## Repositorios
+## Repositories
 
+<!-- projects:start -->
 ### mk96-lib-java-common-code
 
-Librería Java compartida: utilidades (core) y soporte de tests basados en ficheros (test, test-template), con BOM
+Shared Java library: core utilities and support for file-based tests, published with a BOM.
 
-[Ver repositorio](https://github.com/mk96-lib/mk96-lib-java-common-code)
+[View repository](https://github.com/mk96-lib/mk96-lib-java-common-code)
 
 ### mk96-lib-java-spring-extensible
 
-Librería Java para montar APIs CRUD con Spring Boot en arquitectura hexagonal: puertos, servicios, adaptadores JPA y controladores REST genéricos
+Java library to build CRUD APIs with Spring Boot on a hexagonal architecture: generic ports, services, JPA adapters and REST controllers.
 
-[Ver repositorio](https://github.com/mk96-lib/mk96-lib-java-spring-extensible)
-
+[View repository](https://github.com/mk96-lib/mk96-lib-java-spring-extensible)
+<!-- projects:end -->
